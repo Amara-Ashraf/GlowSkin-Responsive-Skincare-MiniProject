@@ -1,1 +1,2 @@
 # GlowSkin-Responsive-Skincare-MiniProject
+GlowSkin is a responsive and user-friendly skincare brand website built with HTML, CSS, and JavaScript. It includes multiple pages such as Home, Products, About Us, and an interactive Chatbot, providing a modern and elegant design for showcasing skincare products. The site features a clean navigation bar, product listings, company information, and a chatbot interface for customer interaction. The project demonstrates web development fundamentals, focusing on UI/UX and code organization with separate HTML, CSS, and JavaScript files.
